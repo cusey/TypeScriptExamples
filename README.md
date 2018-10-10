@@ -1,5 +1,3 @@
-# TypeScriptExamples
-
 # [Typescript](https://www.typescriptlang.org/)   
 
 ![Typescript Logo](https://github.com/cusey/ImageForWiki/blob/master/AngularExamples/TypescriptLogo2.PNG)

@@ -27,11 +27,11 @@ Typescript is an open-source programming language developed and maintained by Mi
 `Johns-MacBook-Pro$ mkdir ts-hello`       
 `Johns-MacBook-Pro$ cd ts-hello/`        
 
-# Creating and Opening the file a the Visual Studio Code     
+# Creating and Opening the file in Visual Studio Code     
 
 `Johns-MacBook-Pro$ code main.ts`           
 
-# Transcompile TypeScript to JavaScript after writing program     
+# Transcompile TypeScript to JavaScript after writing the program     
 
 `Johns-MacBook-Pro$ tsc main.ts`       
 `Johns-MacBook-Pro$ ls`       

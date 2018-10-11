@@ -18,6 +18,10 @@ Typescript is an open-source programming language developed and maintained by Mi
 
 `Johns-MacBook-Pro$sudo npm install -g typescript`    
 
+# Checking Version  
+
+`Johns-MacBook-Pro$tsc --version'  
+
 # References    
 * [TypeScript](https://www.typescriptlang.org/)       
 * [TypeScript-TutorialsPoint](https://www.tutorialspoint.com/typescript/typescript_basic_syntax.htm)    

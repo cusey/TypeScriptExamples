@@ -1,0 +1,75 @@
+Skip to content
+Features
+Business
+Explore
+Marketplace
+Pricing
+
+Search
+
+Sign in or Sign up
+256 4,735 2,172 jupyter/notebook
+ Code  Issues 1,149  Pull requests 47  Projects 9  Insights
+Join GitHub today
+GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together.
+
+notebook/.gitignore
+621a1cd  on Jul 12
+@gnestor gnestor Ignore package-lock.json
+@minrk @jdfreder @takluyver @willingc @fperez @ellisonbg @Carreau @blink1073 @rgbkrk @mattvonrocketstein @msabramo @gnestor @JCEmmons @bfroehle @cowlicks @jianzi123
+     
+41 lines (38 sloc)  576 Bytes
+MANIFEST
+build
+dist
+_build
+docs/man/*.gz
+docs/source/api/generated
+docs/source/config.rst
+docs/gh-pages
+notebook/i18n/*/LC_MESSAGES/*.mo
+notebook/i18n/*/LC_MESSAGES/nbjs.json
+notebook/static/components
+notebook/static/style/*.min.css*
+notebook/static/*/js/built/
+notebook/static/*/built/
+notebook/static/built/
+notebook/static/*/js/main.min.js*
+notebook/static/lab/*bundle.js
+node_modules
+*.py[co]
+__pycache__
+*.egg-info
+*~
+*.bak
+.ipynb_checkpoints
+.tox
+.DS_Store
+\#*#
+.#*
+.coverage
+src
+
+*.swp
+*.map
+.idea/
+Read the Docs
+config.rst
+
+/.project
+/.pydevproject
+
+package-lock.json
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.

@@ -40,7 +40,11 @@ Typescript is an open-source programming language developed and maintained by Mi
 # Angular Transcompile    
 When you uses the following command Angular will transcompile the TypeScript files into Javascript for you.    
 
-`Johns-MacBook-Pro$ ng serve`        
+`Johns-MacBook-Pro$ ng serve`   
+
+# Executing JavaScript code with NodeJS   
+
+`Johns-MacBook-Pro$ node main.js`   
 
 # References    
 * [TypeScript](https://www.typescriptlang.org/)       

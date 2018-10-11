@@ -11,7 +11,7 @@ let backgroundColor = Color.Red;
 
 /*
 const declarations
-They are like let declarations but, as their name implies, their value cannot be changed once they are bound. In other words, they have the same scoping rules as let, but you can’t re-assign to them.
+They are like let declarations but, as their name implies, their value cannot be changed once they are bound. In other words, they have the same scoping rules as let, but you canâ€™t re-assign to them.
 */
 
 const g = 9;
@@ -34,7 +34,7 @@ function h(input: boolean) {
     // Error: 'j' doesn't exist here
     return j;
 }
-h(true); 
+h(true); 
 h(false); 
 
 /*

@@ -4,6 +4,16 @@
 
 Typescript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript.
 
+# Topics  
+* Type annotations
+* Arrow functions
+* Interfaces
+* Classes
+* Constructors
+* Access modifiers
+* Properties
+* Modules
+
 # References    
 * [TypeScript](https://www.typescriptlang.org/)       
 * [TypeScript-TutorialsPoint](https://www.tutorialspoint.com/typescript/typescript_basic_syntax.htm)    

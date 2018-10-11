@@ -21,7 +21,7 @@ let x2 = 123;
 if (true) {
     let x2 = 456;
 }
-console.log(foo); // 123
+console.log('Using the let : ' + x2); // 123
 
 /*
 Another place where let would save you from errors is loops.

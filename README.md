@@ -8,6 +8,7 @@ Typescript is an open-source programming language developed and maintained by Mi
 * Assignment 
 * Type annotations
 * Arrow functions
+* Inline annotation
 * Interfaces
 * Classes
 * Constructors

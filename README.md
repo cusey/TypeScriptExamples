@@ -1,55 +1,48 @@
+![CuseyHub](https://github.com/cusey/ImageForWiki/blob/master/Logos/CuseyHub_Banner_Small.jpg)
+
 # [TypeScript](https://www.typescriptlang.org/)   
 
-![Typescript Logo](https://github.com/cusey/ImageForWiki/blob/master/Logos/Typescript.PNG)
+## Built With
+* Angular 6
+* Node
+* Microsoft Visual Studio Code   
 
-Typescript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript.
+# Gettting Started
 
-# Type Script Syntax 
-* Assignment 
-* Type annotations
-* Arrow functions
-* Inline annotation
-* Interfaces
-* Classes
-* Constructors
-* Access modifiers
-* Properties
-* Modules
-
-# Installing TypeScript    
+### Installing TypeScript    
 
 `Johns-MacBook-Pro$sudo npm install -g typescript`       
 
-# Checking Version      
+### Checking Version      
 
 `Johns-MacBook-Pro$tsc --version`       
 
-# Make TypeScript File    
+###  Make TypeScript File    
 
 `Johns-MacBook-Pro$ mkdir ts-hello`       
 `Johns-MacBook-Pro$ cd ts-hello/`        
 
-# Creating and Opening the file in Visual Studio Code     
+### Creating and Opening the file in Visual Studio Code     
 
 `Johns-MacBook-Pro$ code main.ts`           
 
-# Transcompile TypeScript to JavaScript     
+### Transcompile TypeScript to JavaScript     
 
 `Johns-MacBook-Pro$ tsc main.ts`       
 `Johns-MacBook-Pro$ ls`       
 `main.js main.ts`          
 
-# Angular Transcompile    
+### Angular Transcompile    
 When you uses the following command Angular will transcompile the TypeScript files into Javascript for you.    
 
 `Johns-MacBook-Pro$ ng serve`   
 
-# Executing JavaScript code with NodeJS   
+### Executing JavaScript code with NodeJS   
 
 `Johns-MacBook-Pro$ node main.js`   
 
-# References    
-* [TypeScript](https://www.typescriptlang.org/)       
-* [TypeScript-TutorialsPoint](https://www.tutorialspoint.com/typescript/typescript_basic_syntax.htm)    
-* [Playground - Microsoft](https://www.typescriptlang.org/play/index.html)  
+## Authors
+* John Cusey - CuseyHub  
 
+## License   
+This project is licensed under the MIT License

@@ -1,9 +1,9 @@
 ![CuseyHub](https://github.com/cusey/ImageForWiki/blob/master/Logos/CuseyHub_Banner_Small.jpg)
 
-# [TypeScript](https://www.typescriptlang.org/)   
+  
 
 ## Built With
-* Angular 6
+* [TypeScript](https://www.typescriptlang.org/) 
 * Node
 * Microsoft Visual Studio Code   
 
